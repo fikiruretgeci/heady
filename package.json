@@ -5,8 +5,6 @@
   "description": "Slack Bot Starter Pack",
   "dependencies": {
     "@slack/client": "^3.14.1",
-    "bluebird": "^3.5.1",
-    "ioredis": "^2.2.0",
-    "request": "2.83.0"
+    "bluebird": "^3.5.1"
   }
 }
