@@ -3,7 +3,7 @@
 var config = {
     NAME: 'Heady',
     FATHERS: [], // Write your "username" field from your Team User List
-    AUTHORS: ['Halil Tuğcan Özaktaş','Tuna Aras'], // We are
+    AUTHORS: ['HTO','URETGEC'], // We are
     VERSION: '0.1',
     UPDATE: 'Saturday, November 19, 2017',
     MSG_MAX: 1000, // Max message length
