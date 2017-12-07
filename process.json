@@ -1,0 +1,15 @@
+{
+  "apps" : [
+    {
+      "name" :	"heady_slack",
+      "script" : "index.js",
+      "args" : "",
+      "watch" : false,
+      "ignore_watch" : ["node_modules"],
+      "watch_options" : {
+        "followSymlinks" : false
+      },
+      "max_memory_restart": "100M"
+    }
+  ]
+}

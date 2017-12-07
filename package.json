@@ -1,0 +1,10 @@
+{
+  "name": "heady",
+  "version": "0.0.1",
+  "author": "FIKIRURETGECI",
+  "description": "Slack Bot Starter Pack",
+  "dependencies": {
+    "@slack/client": "^3.14.1",
+    "bluebird": "^3.5.1"
+  }
+}
